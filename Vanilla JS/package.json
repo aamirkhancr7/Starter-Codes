@@ -1,0 +1,9 @@
+{
+    "name": "vanilla-js",
+    "version": "1.0.0",
+    "description": "",
+    "main": "js/app.js",
+    "scripts": {},
+    "author": "",
+    "license": "ISC"
+}
